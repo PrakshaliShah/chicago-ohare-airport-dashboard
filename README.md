@@ -1,38 +1,37 @@
-# 🛫 Chicago O'Hare Airport Dashboard
+# 🛫 Chicago O’Hare Airport Dashboard
 
-This Excel dashboard explores **flight trends, passenger volume, and demographic insights** at Chicago O'Hare International Airport (ORD), one of the busiest airports in the U.S.
-
----
-
-## 📊 What’s Included:
-- **Top 10 Domestic Flight Destinations** (Map Visual)
-- **Domestic Air Carrier Operations** (Area Chart, Month-by-Month)
-- **Passenger Volume: Domestic vs International** (2023 vs 2024) 
-- **Age Group Distribution of Passengers** (Donut Chart)
+## 📌 Overview  
+An Excel dashboard analyzing domestic and international air traffic trends at Chicago O’Hare International Airport (ORD). This report highlights flight volumes, top destinations, and passenger demographics from 2023–2024.
 
 ---
 
-## 🔍 Key Insights:
-- **New York, Los Angeles, and Dallas** rank as top destinations from ORD.
-- Passenger volume in **2024 shows consistent recovery** vs 2023, especially in Q2 and Q3.
-- Travelers aged **31–50** form the largest age group, suggesting a mix of business and family travel.
-- International travel peaks in **late summer**, but remains below domestic levels.
+## 🛠️ Tools Used
+- Microsoft Excel  
+- Pivot Tables  
+- Conditional Formatting  
+- Area Chart, Donut Chart, Map Visuals
+
+---
+
+## 📊 Key Features
+- Monthly trends in domestic carrier operations  
+- Comparison of domestic vs international passenger volume  
+- Top 10 destinations from O'Hare shown on a map  
+- Age distribution of travelers visualized by group
 
 ---
 
 ## 📁 Files
-- `chicago-ohare-airport-dashboard.xlsx` – Final Excel file with charts and visuals
-- `dashboard.png` – Image snapshot of the dashboard for preview/sharing
+- [`chicago-ohare-airport-dashboard.xlsx`](https://github.com/prakshalishah/chicago-ohare-airport-dashboard/blob/main/chicago-ohare-airport-dashboard.xlsx) – Final Excel file with charts and visuals  
+- [`dashboard.png`](https://github.com/prakshalishah/chicago-ohare-airport-dashboard/blob/main/dashboard.png) – Snapshot of the Excel dashboard for preview/sharing
 
 ---
 
-## 🧠 Tools Used
-- **Microsoft Excel** – Data modeling, visualization, and formatting
-- **Chart Types** – Stacked area, bar, donut, and geo map visuals
+## 🖼️ Preview
+
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
-## 🌐 Author
-**Prakshali Shah**  
-🔗 [LinkedIn](https://linkedin.com/in/prakshalishah)
-
+## 🔗 View the File  
+[📂 Click here to view the Excel dashboard](https://github.com/prakshalishah/chicago-ohare-airport-dashboard/blob/main/chicago-ohare-airport-dashboard.xlsx)

@@ -21,17 +21,11 @@ An Excel dashboard analyzing domestic and international air traffic trends at Ch
 
 ---
 
-## 📁 Files
-- [`chicago-ohare-airport-dashboard.xlsx`](https://github.com/prakshalishah/chicago-ohare-airport-dashboard/blob/main/chicago-ohare-airport-dashboard.xlsx) – Final Excel file with charts and visuals  
-- [`dashboard.png`](https://github.com/prakshalishah/chicago-ohare-airport-dashboard/blob/main/dashboard.png) – Snapshot of the Excel dashboard for preview/sharing
+## 🔗 View the File  
+[📂 Click here to view the Excel dashboard](https://github.com/prakshalishah/chicago-ohare-airport-dashboard/blob/main/chicago-ohare-airport-dashboard.xlsx)
 
 ---
 
 ## 🖼️ Preview
 
 ![Dashboard Screenshot](dashboard.png)
-
----
-
-## 🔗 View the File  
-[📂 Click here to view the Excel dashboard](https://github.com/prakshalishah/chicago-ohare-airport-dashboard/blob/main/chicago-ohare-airport-dashboard.xlsx)
